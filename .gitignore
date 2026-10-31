@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env/
+*.log
+.DS_Store
+.ipynb_checkpoints
+
+.Pasted image (2)
+.Pasted image (3)
+.Pasted image 
